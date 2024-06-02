@@ -12,7 +12,7 @@ compile and install
 4 ./configure
 5 make
 
-Fox Mac
+For Mac
 brew install automake autoconf libusb pkg-config git wget
 git clone https://github.com/rockchip-linux/rkdeveloptool
 cd rkdeveloptool
